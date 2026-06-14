@@ -1,0 +1,502 @@
+[
+  {
+    "booking_id": "bk-h-001",
+    "user_id": "u002",
+    "hotel_id": "h-001",
+    "check_in": "2026-04-12",
+    "check_out": "2026-04-15",
+    "guests": 2,
+    "total_price": 10500,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-002",
+    "user_id": "u001",
+    "hotel_id": "h-005",
+    "check_in": "2025-12-25",
+    "check_out": "2025-12-30",
+    "guests": 2,
+    "total_price": 42500,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-003",
+    "user_id": "u005",
+    "hotel_id": "h-010",
+    "check_in": "2026-02-09",
+    "check_out": "2026-02-12",
+    "guests": 4,
+    "total_price": 4500,
+    "status": "CHECKED_IN"
+  },
+  {
+    "booking_id": "bk-h-004",
+    "user_id": "u003",
+    "hotel_id": "h-020",
+    "check_in": "2025-11-10",
+    "check_out": "2025-11-12",
+    "guests": 1,
+    "total_price": 2200,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-005",
+    "user_id": "u008",
+    "hotel_id": "h-002",
+    "check_in": "2026-03-01",
+    "check_out": "2026-03-05",
+    "guests": 2,
+    "total_price": 16800,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-006",
+    "user_id": "u012",
+    "hotel_id": "h-015",
+    "check_in": "2025-01-05",
+    "check_out": "2025-01-08",
+    "guests": 2,
+    "total_price": 2700,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-007",
+    "user_id": "u004",
+    "hotel_id": "h-033",
+    "check_in": "2026-05-20",
+    "check_out": "2026-05-22",
+    "guests": 1,
+    "total_price": 5000,
+    "status": "PENDING"
+  },
+  {
+    "booking_id": "bk-h-008",
+    "user_id": "u015",
+    "hotel_id": "h-007",
+    "check_in": "2025-10-15",
+    "check_out": "2025-10-18",
+    "guests": 3,
+    "total_price": 11400,
+    "status": "CANCELLED"
+  },
+  {
+    "booking_id": "bk-h-009",
+    "user_id": "u010",
+    "hotel_id": "h-042",
+    "check_in": "2026-01-15",
+    "check_out": "2026-01-20",
+    "guests": 2,
+    "total_price": 30000,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-010",
+    "user_id": "u002",
+    "hotel_id": "h-050",
+    "check_in": "2026-02-10",
+    "check_out": "2026-02-11",
+    "guests": 1,
+    "total_price": 2000,
+    "status": "CHECKED_IN"
+  },
+  {
+    "booking_id": "bk-h-011",
+    "user_id": "u006",
+    "hotel_id": "h-025",
+    "check_in": "2025-08-08",
+    "check_out": "2025-08-10",
+    "guests": 2,
+    "total_price": 1600,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-012",
+    "user_id": "u009",
+    "hotel_id": "h-012",
+    "check_in": "2026-04-13",
+    "check_out": "2026-04-14",
+    "guests": 4,
+    "total_price": 2400,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-013",
+    "user_id": "u014",
+    "hotel_id": "h-018",
+    "check_in": "2025-12-05",
+    "check_out": "2025-12-07",
+    "guests": 2,
+    "total_price": 5600,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-014",
+    "user_id": "u007",
+    "hotel_id": "h-030",
+    "check_in": "2026-06-01",
+    "check_out": "2026-06-05",
+    "guests": 2,
+    "total_price": 11200,
+    "status": "PENDING"
+  },
+  {
+    "booking_id": "bk-h-015",
+    "user_id": "u011",
+    "hotel_id": "h-021",
+    "check_in": "2025-09-09",
+    "check_out": "2025-09-12",
+    "guests": 2,
+    "total_price": 36000,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-016",
+    "user_id": "u001",
+    "hotel_id": "h-003",
+    "check_in": "2024-12-28",
+    "check_out": "2025-01-02",
+    "guests": 2,
+    "total_price": 9000,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-017",
+    "user_id": "u013",
+    "hotel_id": "h-045",
+    "check_in": "2025-07-20",
+    "check_out": "2025-07-21",
+    "guests": 1,
+    "total_price": 700,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-018",
+    "user_id": "u005",
+    "hotel_id": "h-006",
+    "check_in": "2026-03-15",
+    "check_out": "2026-03-20",
+    "guests": 3,
+    "total_price": 12500,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-019",
+    "user_id": "u002",
+    "hotel_id": "h-041",
+    "check_in": "2026-02-14",
+    "check_out": "2026-02-15",
+    "guests": 2,
+    "total_price": 2100,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-020",
+    "user_id": "u008",
+    "hotel_id": "h-027",
+    "check_in": "2025-11-20",
+    "check_out": "2025-11-23",
+    "guests": 2,
+    "total_price": 16500,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-021",
+    "user_id": "u003",
+    "hotel_id": "h-009",
+    "check_in": "2025-04-10",
+    "check_out": "2025-04-12",
+    "guests": 1,
+    "total_price": 1000,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-022",
+    "user_id": "u012",
+    "hotel_id": "h-036",
+    "check_in": "2026-01-05",
+    "check_out": "2026-01-07",
+    "guests": 2,
+    "total_price": 3200,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-023",
+    "user_id": "u015",
+    "hotel_id": "h-014",
+    "check_in": "2026-04-01",
+    "check_out": "2026-04-05",
+    "guests": 2,
+    "total_price": 8000,
+    "status": "PENDING"
+  },
+  {
+    "booking_id": "bk-h-024",
+    "user_id": "u010",
+    "hotel_id": "h-008",
+    "check_in": "2025-06-15",
+    "check_out": "2025-06-16",
+    "guests": 2,
+    "total_price": 2900,
+    "status": "CANCELLED"
+  },
+  {
+    "booking_id": "bk-h-025",
+    "user_id": "u004",
+    "hotel_id": "h-048",
+    "check_in": "2025-03-20",
+    "check_out": "2025-03-21",
+    "guests": 2,
+    "total_price": 600,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-026",
+    "user_id": "u006",
+    "hotel_id": "h-023",
+    "check_in": "2026-02-08",
+    "check_out": "2026-02-15",
+    "guests": 4,
+    "total_price": 21000,
+    "status": "CHECKED_IN"
+  },
+  {
+    "booking_id": "bk-h-027",
+    "user_id": "u009",
+    "hotel_id": "h-032",
+    "check_in": "2025-12-31",
+    "check_out": "2026-01-03",
+    "guests": 2,
+    "total_price": 9600,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-028",
+    "user_id": "u014",
+    "hotel_id": "h-017",
+    "check_in": "2025-05-01",
+    "check_out": "2025-05-03",
+    "guests": 2,
+    "total_price": 2800,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-029",
+    "user_id": "u001",
+    "hotel_id": "h-038",
+    "check_in": "2026-02-28",
+    "check_out": "2026-03-01",
+    "guests": 1,
+    "total_price": 950,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-030",
+    "user_id": "u007",
+    "hotel_id": "h-044",
+    "check_in": "2025-08-25",
+    "check_out": "2025-08-28",
+    "guests": 2,
+    "total_price": 11400,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-031",
+    "user_id": "u011",
+    "hotel_id": "h-013",
+    "check_in": "2026-01-20",
+    "check_out": "2026-01-22",
+    "guests": 2,
+    "total_price": 6400,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-032",
+    "user_id": "u005",
+    "hotel_id": "h-026",
+    "check_in": "2026-04-10",
+    "check_out": "2026-04-15",
+    "guests": 2,
+    "total_price": 17500,
+    "status": "PENDING"
+  },
+  {
+    "booking_id": "bk-h-033",
+    "user_id": "u002",
+    "hotel_id": "h-040",
+    "check_in": "2025-10-05",
+    "check_out": "2025-10-06",
+    "guests": 1,
+    "total_price": 1800,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-034",
+    "user_id": "u008",
+    "hotel_id": "h-011",
+    "check_in": "2026-03-05",
+    "check_out": "2026-03-07",
+    "guests": 2,
+    "total_price": 9000,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-035",
+    "user_id": "u013",
+    "hotel_id": "h-046",
+    "check_in": "2025-02-14",
+    "check_out": "2025-02-16",
+    "guests": 2,
+    "total_price": 3800,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-036",
+    "user_id": "u003",
+    "hotel_id": "h-019",
+    "check_in": "2026-05-10",
+    "check_out": "2026-05-13",
+    "guests": 2,
+    "total_price": 6300,
+    "status": "PENDING"
+  },
+  {
+    "booking_id": "bk-h-037",
+    "user_id": "u010",
+    "hotel_id": "h-004",
+    "check_in": "2025-07-07",
+    "check_out": "2025-07-10",
+    "guests": 3,
+    "total_price": 3600,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-038",
+    "user_id": "u006",
+    "hotel_id": "h-029",
+    "check_in": "2026-02-10",
+    "check_out": "2026-02-12",
+    "guests": 1,
+    "total_price": 1300,
+    "status": "CHECKED_IN"
+  },
+  {
+    "booking_id": "bk-h-039",
+    "user_id": "u015",
+    "hotel_id": "h-035",
+    "check_in": "2025-11-15",
+    "check_out": "2025-11-17",
+    "guests": 2,
+    "total_price": 4800,
+    "status": "CANCELLED"
+  },
+  {
+    "booking_id": "bk-h-040",
+    "user_id": "u012",
+    "hotel_id": "h-022",
+    "check_in": "2025-12-20",
+    "check_out": "2025-12-25",
+    "guests": 2,
+    "total_price": 12000,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-041",
+    "user_id": "u009",
+    "hotel_id": "h-049",
+    "check_in": "2025-09-01",
+    "check_out": "2025-09-02",
+    "guests": 1,
+    "total_price": 1400,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-042",
+    "user_id": "u001",
+    "hotel_id": "h-016",
+    "check_in": "2026-02-20",
+    "check_out": "2026-02-21",
+    "guests": 1,
+    "total_price": 2200,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-043",
+    "user_id": "u004",
+    "hotel_id": "h-039",
+    "check_in": "2025-10-22",
+    "check_out": "2025-10-23",
+    "guests": 2,
+    "total_price": 1500,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-044",
+    "user_id": "u007",
+    "hotel_id": "h-024",
+    "check_in": "2026-04-12",
+    "check_out": "2026-04-14",
+    "guests": 4,
+    "total_price": 3600,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-045",
+    "user_id": "u014",
+    "hotel_id": "h-031",
+    "check_in": "2025-06-05",
+    "check_out": "2025-06-06",
+    "guests": 1,
+    "total_price": 1200,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-046",
+    "user_id": "u008",
+    "hotel_id": "h-047",
+    "check_in": "2026-01-08",
+    "check_out": "2026-01-10",
+    "guests": 2,
+    "total_price": 5200,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-047",
+    "user_id": "u002",
+    "hotel_id": "h-037",
+    "check_in": "2025-03-15",
+    "check_out": "2025-03-16",
+    "guests": 2,
+    "total_price": 1300,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-048",
+    "user_id": "u011",
+    "hotel_id": "h-001",
+    "check_in": "2026-03-30",
+    "check_out": "2026-04-02",
+    "guests": 2,
+    "total_price": 10500,
+    "status": "CONFIRMED"
+  },
+  {
+    "booking_id": "bk-h-049",
+    "user_id": "u005",
+    "hotel_id": "h-028",
+    "check_in": "2025-11-28",
+    "check_out": "2025-11-30",
+    "guests": 3,
+    "total_price": 8000,
+    "status": "CHECKED_OUT"
+  },
+  {
+    "booking_id": "bk-h-050",
+    "user_id": "u003",
+    "hotel_id": "h-043",
+    "check_in": "2026-02-18",
+    "check_out": "2026-02-19",
+    "guests": 2,
+    "total_price": 1200,
+    "status": "CONFIRMED"
+  }
+]
