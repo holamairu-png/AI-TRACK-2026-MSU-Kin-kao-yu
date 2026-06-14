@@ -1,0 +1,402 @@
+[
+  {
+    "hotel_id": "h-001",
+    "name": "Siam Grand Hotel",
+    "location": "Bangkok",
+    "rating": 4.8,
+    "price_per_night": 3500,
+    "amenities": ["Pool", "Wifi", "Gym", "Breakfast"]
+  },
+  {
+    "hotel_id": "h-002",
+    "name": "Phuket Ocean Breeze Resort",
+    "location": "Phuket",
+    "rating": 4.5,
+    "price_per_night": 4200,
+    "amenities": ["Pool", "Wifi", "Beach Access", "Spa", "Bar"]
+  },
+  {
+    "hotel_id": "h-003",
+    "name": "Chiang Mai Lanna Boutique",
+    "location": "Chiang Mai",
+    "rating": 4.7,
+    "price_per_night": 1800,
+    "amenities": ["Wifi", "Breakfast", "Garden"]
+  },
+  {
+    "hotel_id": "h-004",
+    "name": "Pattaya City Center Hotel",
+    "location": "Pattaya",
+    "rating": 4.0,
+    "price_per_night": 1200,
+    "amenities": ["Wifi", "Parking", "Gym"]
+  },
+  {
+    "hotel_id": "h-005",
+    "name": "Samui Sunset Villa",
+    "location": "Koh Samui",
+    "rating": 4.9,
+    "price_per_night": 8500,
+    "amenities": ["Private Pool", "Wifi", "Kitchen", "Beach Access", "Breakfast"]
+  },
+  {
+    "hotel_id": "h-006",
+    "name": "Krabi Beachfront Bungalow",
+    "location": "Krabi",
+    "rating": 4.3,
+    "price_per_night": 2500,
+    "amenities": ["Wifi", "Beach Access", "Bar"]
+  },
+  {
+    "hotel_id": "h-007",
+    "name": "Hua Hin Golf Resort",
+    "location": "Hua Hin",
+    "rating": 4.6,
+    "price_per_night": 3800,
+    "amenities": ["Pool", "Golf Course", "Wifi", "Spa"]
+  },
+  {
+    "hotel_id": "h-008",
+    "name": "Bangkok Riverside Suites",
+    "location": "Bangkok",
+    "rating": 4.4,
+    "price_per_night": 2900,
+    "amenities": ["Pool", "Wifi", "Gym", "River View"]
+  },
+  {
+    "hotel_id": "h-009",
+    "name": "The Old City Hostel",
+    "location": "Chiang Mai",
+    "rating": 4.2,
+    "price_per_night": 500,
+    "amenities": ["Wifi", "Shared Lounge", "Lockers"]
+  },
+  {
+    "hotel_id": "h-010",
+    "name": "Patong Party Hotel",
+    "location": "Phuket",
+    "rating": 3.8,
+    "price_per_night": 1500,
+    "amenities": ["Pool", "Wifi", "Bar", "DJ"]
+  },
+  {
+    "hotel_id": "h-011",
+    "name": "Sukhumvit Luxury Residence",
+    "location": "Bangkok",
+    "rating": 4.7,
+    "price_per_night": 4500,
+    "amenities": ["Pool", "Wifi", "Gym", "Sauna", "Parking"]
+  },
+  {
+    "hotel_id": "h-012",
+    "name": "Ayutthaya Historical Inn",
+    "location": "Ayutthaya",
+    "rating": 4.5,
+    "price_per_night": 1200,
+    "amenities": ["Wifi", "Breakfast", "Bicycle Rental"]
+  },
+  {
+    "hotel_id": "h-013",
+    "name": "Khao Yai Nature Resort",
+    "location": "Nakhon Ratchasima",
+    "rating": 4.6,
+    "price_per_night": 3200,
+    "amenities": ["Garden", "Wifi", "Breakfast", "Camping Area"]
+  },
+  {
+    "hotel_id": "h-014",
+    "name": "Koh Tao Dive Resort",
+    "location": "Koh Tao",
+    "rating": 4.4,
+    "price_per_night": 2000,
+    "amenities": ["Wifi", "Pool", "Diving Center", "Bar"]
+  },
+  {
+    "hotel_id": "h-015",
+    "name": "Pai Mountain View",
+    "location": "Mae Hong Son",
+    "rating": 4.3,
+    "price_per_night": 900,
+    "amenities": ["Wifi", "Garden", "Fireplace"]
+  },
+  {
+    "hotel_id": "h-016",
+    "name": "Sathorn Business Hotel",
+    "location": "Bangkok",
+    "rating": 4.1,
+    "price_per_night": 2200,
+    "amenities": ["Wifi", "Meeting Room", "Gym", "Breakfast"]
+  },
+  {
+    "hotel_id": "h-017",
+    "name": "Rayong Beach Hotel",
+    "location": "Rayong",
+    "rating": 3.9,
+    "price_per_night": 1400,
+    "amenities": ["Wifi", "Pool", "Parking"]
+  },
+  {
+    "hotel_id": "h-018",
+    "name": "Kanchanaburi River Raft",
+    "location": "Kanchanaburi",
+    "rating": 4.5,
+    "price_per_night": 2800,
+    "amenities": ["Wifi", "River View", "Breakfast", "Kayak"]
+  },
+  {
+    "hotel_id": "h-019",
+    "name": "Trang Island Hop Resort",
+    "location": "Trang",
+    "rating": 4.2,
+    "price_per_night": 2100,
+    "amenities": ["Wifi", "Beach Access", "Tour Desk"]
+  },
+  {
+    "hotel_id": "h-020",
+    "name": "Hat Yai Central",
+    "location": "Songkhla",
+    "rating": 4.0,
+    "price_per_night": 1100,
+    "amenities": ["Wifi", "Parking", "Restaurant"]
+  },
+  {
+    "hotel_id": "h-021",
+    "name": "The Royal Suite Bangkok",
+    "location": "Bangkok",
+    "rating": 4.9,
+    "price_per_night": 12000,
+    "amenities": ["Pool", "Wifi", "Gym", "Spa", "Butler Service", "Lounge"]
+  },
+  {
+    "hotel_id": "h-022",
+    "name": "Nimman Art Hotel",
+    "location": "Chiang Mai",
+    "rating": 4.6,
+    "price_per_night": 2400,
+    "amenities": ["Wifi", "Gallery", "Coffee Shop", "Parking"]
+  },
+  {
+    "hotel_id": "h-023",
+    "name": "Ao Nang Paradise",
+    "location": "Krabi",
+    "rating": 4.4,
+    "price_per_night": 3000,
+    "amenities": ["Pool", "Wifi", "Spa", "Kids Club"]
+  },
+  {
+    "hotel_id": "h-024",
+    "name": "Jomtien Family Resort",
+    "location": "Pattaya",
+    "rating": 4.1,
+    "price_per_night": 1800,
+    "amenities": ["Pool", "Wifi", "Slide", "Breakfast"]
+  },
+  {
+    "hotel_id": "h-025",
+    "name": "Udon Thani City Hotel",
+    "location": "Udon Thani",
+    "rating": 3.8,
+    "price_per_night": 800,
+    "amenities": ["Wifi", "Parking", "Meeting Room"]
+  },
+  {
+    "hotel_id": "h-026",
+    "name": "Koh Chang Hideaway",
+    "location": "Trat",
+    "rating": 4.5,
+    "price_per_night": 3500,
+    "amenities": ["Beach Access", "Wifi", "Pool", "Spa"]
+  },
+  {
+    "hotel_id": "h-027",
+    "name": "Chiang Rai Golden Triangle",
+    "location": "Chiang Rai",
+    "rating": 4.7,
+    "price_per_night": 5500,
+    "amenities": ["Pool", "Wifi", "Spa", "Elephant Camp"]
+  },
+  {
+    "hotel_id": "h-028",
+    "name": "Khao Lak Family Resort",
+    "location": "Phang Nga",
+    "rating": 4.6,
+    "price_per_night": 4000,
+    "amenities": ["Pool", "Wifi", "Beach Access", "Kids Club", "Gym"]
+  },
+  {
+    "hotel_id": "h-029",
+    "name": "Bangkok Budget Inn",
+    "location": "Bangkok",
+    "rating": 3.5,
+    "price_per_night": 650,
+    "amenities": ["Wifi", "Shared Bathroom", "24h Reception"]
+  },
+  {
+    "hotel_id": "h-030",
+    "name": "Samui Zen Hotel",
+    "location": "Koh Samui",
+    "rating": 4.3,
+    "price_per_night": 2800,
+    "amenities": ["Pool", "Wifi", "Yoga Studio", "Breakfast"]
+  },
+  {
+    "hotel_id": "h-031",
+    "name": "Phitsanulok Grand",
+    "location": "Phitsanulok",
+    "rating": 4.0,
+    "price_per_night": 1200,
+    "amenities": ["Wifi", "Parking", "Restaurant", "Meeting Room"]
+  },
+  {
+    "hotel_id": "h-032",
+    "name": "Koh Lipe Blue Sea",
+    "location": "Satun",
+    "rating": 4.5,
+    "price_per_night": 3200,
+    "amenities": ["Beach Access", "Wifi", "Snorkeling Gear"]
+  },
+  {
+    "hotel_id": "h-033",
+    "name": "Khon Kaen Pullman",
+    "location": "Khon Kaen",
+    "rating": 4.7,
+    "price_per_night": 2500,
+    "amenities": ["Pool", "Wifi", "Gym", "Spa", "Bar"]
+  },
+  {
+    "hotel_id": "h-034",
+    "name": "Surat Thani Airport Hotel",
+    "location": "Surat Thani",
+    "rating": 3.9,
+    "price_per_night": 900,
+    "amenities": ["Wifi", "Parking", "Shuttle Service"]
+  },
+  {
+    "hotel_id": "h-035",
+    "name": "Koh Samet White Sand",
+    "location": "Rayong",
+    "rating": 4.2,
+    "price_per_night": 2400,
+    "amenities": ["Beach Access", "Wifi", "Fire Show", "Bar"]
+  },
+  {
+    "hotel_id": "h-036",
+    "name": "Nan Riverside Art Gallery",
+    "location": "Nan",
+    "rating": 4.6,
+    "price_per_night": 1600,
+    "amenities": ["Wifi", "Garden", "Gallery", "River View"]
+  },
+  {
+    "hotel_id": "h-037",
+    "name": "Betong Skywalk Hotel",
+    "location": "Yala",
+    "rating": 4.1,
+    "price_per_night": 1300,
+    "amenities": ["Wifi", "Parking", "Restaurant"]
+  },
+  {
+    "hotel_id": "h-038",
+    "name": "Chatuchak Weekend Stay",
+    "location": "Bangkok",
+    "rating": 4.0,
+    "price_per_night": 950,
+    "amenities": ["Wifi", "Near BTS", "Breakfast"]
+  },
+  {
+    "hotel_id": "h-039",
+    "name": "Amphawa Floating Market Homestay",
+    "location": "Samut Songkhram",
+    "rating": 4.4,
+    "price_per_night": 1500,
+    "amenities": ["Wifi", "River View", "Boat Tour", "Breakfast"]
+  },
+  {
+    "hotel_id": "h-040",
+    "name": "Buriram United Hotel",
+    "location": "Buriram",
+    "rating": 4.3,
+    "price_per_night": 1800,
+    "amenities": ["Wifi", "Pool", "Gym", "Parking"]
+  },
+  {
+    "hotel_id": "h-041",
+    "name": "Ekkamai Hipster Hotel",
+    "location": "Bangkok",
+    "rating": 4.5,
+    "price_per_night": 2100,
+    "amenities": ["Wifi", "Cafe", "Co-working Space", "Bar"]
+  },
+  {
+    "hotel_id": "h-042",
+    "name": "Similan Island Liveaboard",
+    "location": "Phang Nga",
+    "rating": 4.8,
+    "price_per_night": 6000,
+    "amenities": ["Diving Equipment", "All Meals", "Wifi (Weak)"]
+  },
+  {
+    "hotel_id": "h-043",
+    "name": "Ratchaburi Farm Stay",
+    "location": "Ratchaburi",
+    "rating": 4.2,
+    "price_per_night": 1200,
+    "amenities": ["Wifi", "Farm Animals", "Organic Breakfast"]
+  },
+  {
+    "hotel_id": "h-044",
+    "name": "Terminal 21 Grande",
+    "location": "Bangkok",
+    "rating": 4.7,
+    "price_per_night": 3800,
+    "amenities": ["Pool", "Wifi", "Gym", "Shopping Mall Access"]
+  },
+  {
+    "hotel_id": "h-045",
+    "name": "Mae Sot Border Hotel",
+    "location": "Tak",
+    "rating": 3.7,
+    "price_per_night": 700,
+    "amenities": ["Wifi", "Parking", "Restaurant"]
+  },
+  {
+    "hotel_id": "h-046",
+    "name": "Chinatown Boutique",
+    "location": "Bangkok",
+    "rating": 4.3,
+    "price_per_night": 1900,
+    "amenities": ["Wifi", "Restaurant", "Bar", "Decorated Rooms"]
+  },
+  {
+    "hotel_id": "h-047",
+    "name": "Ranong Hot Spring Resort",
+    "location": "Ranong",
+    "rating": 4.4,
+    "price_per_night": 2600,
+    "amenities": ["Hot Spring", "Wifi", "Spa", "Restaurant"]
+  },
+  {
+    "hotel_id": "h-048",
+    "name": "Lopburi Monkey Hotel",
+    "location": "Lopburi",
+    "rating": 3.6,
+    "price_per_night": 600,
+    "amenities": ["Wifi", "Parking"]
+  },
+  {
+    "hotel_id": "h-049",
+    "name": "Nakhon Si Thammarat Heritage",
+    "location": "Nakhon Si Thammarat",
+    "rating": 4.2,
+    "price_per_night": 1400,
+    "amenities": ["Wifi", "Parking", "Restaurant", "Garden"]
+  },
+  {
+    "hotel_id": "h-050",
+    "name": "Suvarnabhumi Transit Hotel",
+    "location": "Bangkok",
+    "rating": 4.0,
+    "price_per_night": 2000,
+    "amenities": ["Wifi", "Airport Shuttle", "24h Check-in"]
+  }
+]
